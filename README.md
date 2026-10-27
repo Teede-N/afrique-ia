@@ -1,54 +1,96 @@
-# AfrIA — Apprends l'IA, construis ton avenir
+# AfrIA — Comprends l'IA. Construis l'avenir.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![PWA](https://img.shields.io/badge/PWA-installable-5A0FC8?logo=pwa&logoColor=white)
 ![Serverless](https://img.shields.io/badge/API-serverless-000000?logo=vercel)
-![Langue](https://img.shields.io/badge/langue-français-0055A4)
+![Langues](https://img.shields.io/badge/langues-FR_·_EN_·_AR_·_YO-0e5c3f)
 
-> Plateforme **gratuite** pour aider les **jeunes francophones**, en particulier en Afrique, à apprendre l'intelligence artificielle : modules, parcours et outils pour les enseignants.
+> Plateforme **gratuite** pour former la jeunesse à l'intelligence artificielle : **53 modules** en accès libre, une **filière universitaire**, des **outils pour les enseignants** et les établissements. Seul le certificat de réussite est payant.
 
-🌍 **Démo en ligne : [afria-plateforme.vercel.app](https://afria-plateforme.vercel.app)**
+<p align="center">
+  <a href="https://afria-plateforme.vercel.app"><img src="https://img.shields.io/badge/▶_Essayer_en_ligne-afria--plateforme-2a78d6?style=for-the-badge" alt="Essayer en ligne"></a>
+  <a href="media/demo-afria.mp4"><img src="https://img.shields.io/badge/🎬_Vidéo_HD-MP4-eb6834?style=for-the-badge" alt="Vidéo HD"></a>
+</p>
+
+<p align="center">
+  <img src="media/demo-afria.gif" alt="Démo d'AfrIA : accueil, formations, modules, ressources, masterclass, actualités IA en direct" width="760">
+</p>
+
+<p align="center"><sub>Démo animée. Cliquez sur <b>Vidéo HD</b> pour la version MP4, ou sur <b>Essayer en ligne</b> pour tester le site.</sub></p>
+
+### 📸 Captures d'écran
+
+<table>
+  <tr>
+    <td><img src="media/capture-1.png" alt="Accueil"></td>
+    <td><img src="media/capture-2.png" alt="Choisis ta formation"></td>
+    <td><img src="media/capture-3.png" alt="Actualités IA en direct"></td>
+  </tr>
+</table>
 
 ---
 
 ## Sommaire
 
 1. [Mission](#1-mission)
-2. [Fonctionnalités](#2-fonctionnalités)
-3. [Architecture](#3-architecture)
-4. [Zoom technique : l'API d'actualités](#4-zoom-technique--lapi-dactualités)
-5. [Pensé pour le terrain](#5-pensé-pour-le-terrain)
-6. [Feuille de route](#6-feuille-de-route)
+2. [L'offre en chiffres](#2-loffre-en-chiffres)
+3. [Fonctionnalités](#3-fonctionnalités)
+4. [Parcours utilisateur](#4-parcours-utilisateur)
+5. [Architecture](#5-architecture)
+6. [Zoom technique : l'API d'actualités](#6-zoom-technique--lapi-dactualités)
+7. [Pensé pour le terrain](#7-pensé-pour-le-terrain)
+8. [Feuille de route](#8-feuille-de-route)
 
 ---
 
 ## 1. Mission
 
-L'IA transforme tous les métiers. Pourtant, les ressources de qualité **en français** et **adaptées au contexte africain** restent rares, et souvent payantes.
+L'IA transforme tous les métiers. Pourtant, les ressources de qualité **en français** et **adaptées au contexte africain** restent rares, et souvent payantes. AfrIA offre un point d'entrée **gratuit, accessible 24 h/24 et multilingue**, pour les apprenants comme pour ceux qui les forment.
 
-AfrIA veut offrir un point d'entrée :
+---
 
-| Principe | Concrètement |
+## 2. L'offre en chiffres
+
+| Indicateur | Valeur |
 |---|---|
-| **Gratuit** | Aucun paiement pour apprendre |
-| **En français** | Contenus rédigés pour un public francophone |
-| **Accessible** | Application légère, installable, utilisable sur mobile |
-| **Ancré dans l'actualité** | Un fil d'actualités IA mis à jour automatiquement |
-| **Utile aux enseignants** | Des outils pour enseigner l'IA en classe |
+| Modules en accès libre | **53** |
+| Coût de l'apprentissage | **0 €** |
+| Langues de l'interface | **4** (français, anglais, arabe, yoruba) |
+| Parcours thématiques | **10** (fondamentaux, IA générative, masterclass no-code, IA sectorielle, éthique, IA avancée, filière universitaire, enseignants et écoles, ressources, certificat) |
+| Masterclass avancée | **40 modules** en 4 piliers, environ 160 h estimées |
 
 ---
 
-## 2. Fonctionnalités
+## 3. Fonctionnalités
 
-- 📚 **Modules d'apprentissage** progressifs sur l'IA
-- 🧑‍🏫 **Outils pour les enseignants**
-- 📰 **Fil d'actualités IA automatique**, alimenté par une API serverless
-- 📱 **Application installable (PWA)** : icône sur l'écran d'accueil, affichage plein écran
-- 🔄 **Mise à jour mensuelle automatisée** du contenu
+| Pour qui | Ce qu'AfrIA propose |
+|---|---|
+| 🎓 **Apprenants** | 53 modules filtrables par thème (assistants, création, agriculture, santé, éducation, emploi, éthique, avancé, université), compte gratuit, certificat de réussite en option |
+| 🧑‍🏫 **Enseignants** | Espace dédié pour déposer des supports de cours et suivre la progression des élèves |
+| 🏫 **Écoles et entreprises** | Licence établissement multi-comptes, filière universitaire incluse, demande de démonstration |
+| 📚 **Tous** | Ressources téléchargeables gratuitement : programme universitaire (PDF), support PowerPoint, 41 modules en PDF (français et anglais) |
+| 📰 **Curieux** | Fil d'**actualités IA en direct**, mis à jour automatiquement |
+| 🚀 **Avancés** | Masterclass IA & No-Code de 40 modules, avec vidéos d'approfondissement et un projet de fin de formation |
 
 ---
 
-## 3. Architecture
+## 4. Parcours utilisateur
+
+```mermaid
+flowchart LR
+    A[Accueil] -->|Choisis ta formation| B[10 parcours]
+    B --> C[53 modules<br/>filtrés par thème]
+    C -->|compte gratuit| D[Espace apprenant]
+    D --> E[Certificat<br/>de réussite]
+    A --> F[Ressources PDF<br/>et PowerPoint]
+    A --> G[Actualités IA<br/>en direct]
+```
+
+L'expérience reste **simple** : une page d'accueil claire, des cartes de couleur pour choisir sa formation en un clic, des filtres par thème et un seul formulaire pour créer son compte.
+
+---
+
+## 5. Architecture
 
 ```mermaid
 flowchart LR
@@ -56,36 +98,21 @@ flowchart LR
     PWA -->|fetch| API["/api/news<br/>fonction serverless"]
     API -->|RSS| G[Flux d'actualités IA<br/>en français]
     API -->|JSON mis en cache 15 min| PWA
-    CDN[(CDN Vercel)] -.met en cache.-> API
 ```
 
-Structure du projet déployé :
-
-```
-afrique-ia/
-├── manifest.json   # PWA : nom, icônes, couleurs, mode d'affichage autonome
-├── api/
-│   └── news.js     # fonction serverless : RSS → JSON propre
-├── build.js        # assemblage du site au moment du déploiement
-└── package.json    # script de build
-```
+| Élément | Rôle |
+|---|---|
+| `manifest.json` | Rend le site installable (PWA) : nom, icônes, couleurs, affichage autonome |
+| `api/news.js` | Fonction serverless : flux RSS vers JSON propre, avec cache CDN |
+| `build.js` | Assemblage du site au moment du déploiement |
 
 ---
 
-## 4. Zoom technique : l'API d'actualités
+## 6. Zoom technique : l'API d'actualités
 
 **Problème** : un navigateur ne peut pas lire directement un flux RSS d'un autre domaine (CORS), et interroger la source à chaque visite serait lent et coûteux.
 
-**Solution** : une **fonction serverless** qui sert d'intermédiaire.
-
-```
-Navigateur ──► /api/news ──► flux RSS (IA, en français)
-                  │
-                  ├─ extrait les 8 articles les plus récents
-                  ├─ normalise : titre, lien, date, source
-                  ├─ nettoie les balises CDATA
-                  └─ répond en JSON, avec un cache CDN
-```
+**Solution** : une **fonction serverless** sert d'intermédiaire. Elle extrait les 8 articles les plus récents (titre, lien, date, source), nettoie les balises CDATA et répond en JSON.
 
 **Stratégie de cache** : `Cache-Control: s-maxage=900, stale-while-revalidate=1800`
 
@@ -94,30 +121,30 @@ Navigateur ──► /api/news ──► flux RSS (IA, en français)
 | `s-maxage=900` | Le CDN garde la réponse **15 minutes** : la source n'est interrogée qu'environ 4 fois par heure, quel que soit le nombre de visiteurs |
 | `stale-while-revalidate=1800` | Pendant 30 minutes supplémentaires, le visiteur reçoit **immédiatement** la version en cache pendant qu'elle se rafraîchit en arrière-plan |
 
-Résultat : un temps de réponse **constant et rapide**, et une charge sur la source **indépendante du trafic**. Avec $N$ visiteurs par heure, le nombre d'appels à la source passe de $N$ à environ 4.
+Avec $N$ visiteurs par heure, le nombre d'appels à la source passe de $N$ à environ 4 : la charge devient **indépendante du trafic**.
 
 ---
 
-## 5. Pensé pour le terrain
+## 7. Pensé pour le terrain
 
-| Contrainte du public | Réponse technique |
+| Contrainte du public | Réponse |
 |---|---|
-| Connexions mobiles lentes ou coûteuses | Site statique léger, actualités mises en cache côté CDN |
-| Usage majoritairement sur smartphone | PWA installable, orientation portrait, affichage autonome |
-| Pas de budget pour s'abonner | Contenu entièrement gratuit |
-| Besoin de contenu à jour | Actualités automatiques et mise à jour mensuelle du site |
+| Connexions mobiles lentes ou coûteuses | Site statique léger, actualités mises en cache côté CDN, PDF téléchargeables |
+| Usage majoritairement sur smartphone | PWA installable, affichage autonome |
+| Diversité linguistique | Interface en français, anglais, arabe et yoruba |
+| Pas de budget pour se former | Tous les modules sont gratuits ; seul le certificat est payant |
 
 ---
 
-## 6. Feuille de route
+## 8. Feuille de route
 
-- [x] Plateforme en ligne et installable (PWA)
-- [x] Fil d'actualités IA automatique
-- [x] Mise à jour mensuelle automatisée
+- [x] 53 modules en ligne, 10 parcours, filière universitaire
+- [x] Espace enseignant et offre écoles / entreprises
+- [x] Ressources téléchargeables (PDF, PowerPoint)
+- [x] Actualités IA en direct et mise à jour mensuelle automatisée
 - [x] Cours AfrIA intégrés à l'espace Apprentissage de [Teedaïk](https://github.com/Teede-N/teedaik-showcase)
-- [ ] Mode **hors ligne** complet (service worker et cache des modules)
-- [ ] **Quiz** et suivi de progression
-- [ ] Parcours dédiés aux **enseignants** (supports de cours prêts à l'emploi)
+- [ ] Mode hors ligne complet (service worker)
+- [ ] Quiz auto-corrigés et tableau de progression détaillé
 
 ---
 
